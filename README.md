@@ -29,6 +29,8 @@ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
 Now you will see your Ngrok Authtoken being requested in the terminal, all you have to do is go to ngrok.io and register and you will see your Authtoken on your dashboard.
 
+https://ngrok.io/
+
 ![screenshot](https://github.com/DilminaOfficial/Free-RDP/blob/main/Screenshot%20from%202023-11-17%2018-55-46.png)
 
 ## The Step four
